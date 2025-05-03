@@ -5,7 +5,7 @@ const port = 3000;
 //Route1 Home
 
 app.get('/',(req,res)=>{
-    res.send("Girish has just started learning backend 03-05-2025")
+    res.send("Girish has started learning backend ")
 });
 
 
